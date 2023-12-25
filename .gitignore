@@ -1,0 +1,8 @@
+logs
+venv
+.vscode
+db.sqlite3
+models
+data
+__pycache__
+*/**/__pycache__
